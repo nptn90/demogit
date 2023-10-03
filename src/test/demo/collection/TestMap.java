@@ -1,7 +1,5 @@
 package test.demo.collection;
 
-import test.demo.TestObject;
-
 import java.util.*;
 
 public class TestMap {

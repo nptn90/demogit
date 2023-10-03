@@ -1,4 +1,4 @@
-package test.demo;
+package test.demo.collection;
 
 import java.util.Objects;
 
